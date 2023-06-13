@@ -28,13 +28,14 @@
 
   .container2{
     display: grid;
-    grid-template-columns: 200px 200px;
+    grid-template-columns: 60vh 60vh;
+    width: 80%;
   }
 
   .sec{
     border-style: solid;
     height: 200px;
-    margin: 20px;
+    margin: 10px;
     text-align: center;
   }
   .grid-container {
